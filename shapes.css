@@ -1,0 +1,60 @@
+.body {
+    border: 0px auto;
+    margin: 0px auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    overflow-x: auto;
+    
+    
+}
+.shapes{
+    position: relative;
+    border: 3px ;
+    width: 350px;
+    height: 200px;
+}
+.t1,td{
+    border:3px solid #000000;
+    width:13px;
+    height:5px;
+    text-align: center;
+    background-color: #46d4ff;
+}
+.format{
+    
+}
+
+#c1{
+   background-color: #000000; 
+   color:#ffff;
+
+}
+#c2{
+    background-color:#000000;
+    color:#fff;
+}
+#c3{
+    background-color:#000000;
+    color:#fff;
+}
+#c4{
+    background-color:#000000;
+    color:#fff;
+}
+#c5{
+    background-color:#000000;
+    color:#fff;
+}
+#c6{
+    background-color:#000000;
+    color:#fff;
+}
+#c7{
+    background-color:#000000;
+    color:#fff;
+}
+#c8{
+    background-color:#000000;
+    color:#fff;
+}

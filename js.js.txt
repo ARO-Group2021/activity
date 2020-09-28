@@ -1,0 +1,151 @@
+function cc(y){
+    var x = document.getElementById("c1");
+    var s = document.getElementById("c2");
+    var d = document.getElementById("c4");
+    var f = document.getElementById("c5");
+    var g = document.getElementById("c6");
+    var h = document.getElementById("c7");
+    var j = document.getElementById("c8");
+
+   
+    x.style.backgroundColor = y
+    s.style.backgroundColor = y
+    d.style.backgroundColor = y
+    f.style.backgroundColor = "#46d4ff"
+    g.style.backgroundColor = y
+    h.style.backgroundColor = y
+    j.style.backgroundColor = y
+
+}
+function ccc(y){
+    var h = document.getElementById("c1");
+    var j = document.getElementById("c2");
+    var x = document.getElementById("c4");
+    var s = document.getElementById("c7");
+    var g = document.getElementById("c5");
+    var d = document.getElementById("c6");
+    var e = document.getElementById("c8");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = y 
+    h.style.backgroundColor = "#46d4ff" 
+    j.style.backgroundColor = "#46d4ff" 
+    g.style.backgroundColor = "#46d4ff" 
+    d.style.backgroundColor = "#46d4ff" 
+    e.style.backgroundColor = "#46d4ff" 
+
+
+}
+function cccc(y){
+    var x = document.getElementById("c1");
+    var s = document.getElementById("c4");
+    var d = document.getElementById("c5");
+    var f = document.getElementById("c6");
+    var g = document.getElementById("c8");
+    var j = document.getElementById("c2");
+    var h = document.getElementById("c7");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = y 
+    d.style.backgroundColor = y 
+    f.style.backgroundColor = y 
+    g.style.backgroundColor = y 
+    j.style.backgroundColor = "#46d4ff"
+    h.style.backgroundColor = "#46d4ff"
+
+
+
+}
+function c3(y){
+    var x = document.getElementById("c1");
+    var s = document.getElementById("c2");
+    var d = document.getElementById("c4");
+    var f = document.getElementById("c5");
+    var g = document.getElementById("c8");
+    var h = document.getElementById("c6");
+    var j = document.getElementById("c7");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = "#46d4ff"
+    d.style.backgroundColor = y 
+    f.style.backgroundColor = y 
+    g.style.backgroundColor = y 
+    j.style.backgroundColor = y
+    h.style.backgroundColor = "#46d4ff"
+
+
+
+}
+function c4(y){
+    var x = document.getElementById("c2");
+    var s = document.getElementById("c1");
+    var d = document.getElementById("c5");
+    var f = document.getElementById("c4");
+    var g = document.getElementById("c7");
+    var j = document.getElementById("c8");
+    var h = document.getElementById("c6");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = "#46d4ff"
+    d.style.backgroundColor = y 
+    f.style.backgroundColor = y 
+    g.style.backgroundColor = y 
+    j.style.backgroundColor = "#46d4ff"
+    h.style.backgroundColor = "#46d4ff"
+
+
+
+}
+function c5(y){
+    var x = document.getElementById("c1");
+    var s = document.getElementById("c2");
+    var d = document.getElementById("c5");
+    var f = document.getElementById("c4");
+    var g = document.getElementById("c7");
+    var j = document.getElementById("c8");
+    var h = document.getElementById("c6");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = y
+    d.style.backgroundColor = y 
+    f.style.backgroundColor =  "#46d4ff"
+    g.style.backgroundColor = y 
+    j.style.backgroundColor = y
+    h.style.backgroundColor = "#46d4ff"
+
+
+
+}
+function c6(y){
+    var x = document.getElementById("c1");
+    var s = document.getElementById("c2");
+    var d = document.getElementById("c5");
+    var f = document.getElementById("c4");
+    var g = document.getElementById("c7");
+    var j = document.getElementById("c8");
+    var h = document.getElementById("c6");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = y
+    d.style.backgroundColor = y 
+    f.style.backgroundColor =  "#46d4ff"
+    g.style.backgroundColor = y 
+    j.style.backgroundColor = y
+    h.style.backgroundColor = y
+
+
+
+}
+function c7(y){
+    var x = document.getElementById("c1");
+    var s = document.getElementById("c2");
+    var d = document.getElementById("c5");
+    var f = document.getElementById("c4");
+    var g = document.getElementById("c7");
+    var j = document.getElementById("c8");
+    var h = document.getElementById("c6");
+    x.style.backgroundColor = y 
+    s.style.backgroundColor = "#46d4ff"
+    d.style.backgroundColor = y 
+    f.style.backgroundColor = y
+    g.style.backgroundColor = y 
+    j.style.backgroundColor = "#46d4ff"
+    h.style.backgroundColor = "#46d4ff"
+
+
+
+}
